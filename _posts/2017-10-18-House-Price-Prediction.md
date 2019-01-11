@@ -14,7 +14,7 @@ Knowledge to choose and evaluate the model
 
 1, In order to use linear model, the target (sales price in this case) needs to be normally distributed, however, If you look into the sales price, it is bit skewed.
 
-!(/img/p3-1-price.png) 
+![](/img/p3-1-price.png) 
 
 So, tying to see whether the logged sales price is normally distributed:
 
