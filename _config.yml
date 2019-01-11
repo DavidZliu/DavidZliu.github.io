@@ -79,7 +79,7 @@ ga_domain: huangxuan.me
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "For the next quantum leap<br>离开世界之前，一切都是过程"
-sidebar-avatar: /img/avatar-hux-ny.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: https://avatars2.githubusercontent.com/u/32758303?s=400&u=9e90547ebd76de53bc7a316447a497f9962f1fe7&v=4 #/img/avatar-hux-ny.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
