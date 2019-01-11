@@ -8,4 +8,4 @@ The link below is the code file for the web scraping in Github.
 
 [Link to Gitbub](https://github.com/DavidZliu/webs/blob/master/web-scraping-Q1-and%20save.ipynb)
 
-![_config.yml]({{ site.baseurl }}/images/web.jpg)
+![](/img/web.jpg)
