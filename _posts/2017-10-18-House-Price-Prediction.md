@@ -3,7 +3,7 @@ layout: post
 title: House Price prediction by machine learning
 ---
 
-![](/img/house-prices up.jpg)
+![](/img/house-pricesup.jpg)
 
 To choose which kind of property to purchase is always a hard work for many potential buyers, normally, common features such as number of bedrooms, location, the closeness to the public transport are always ranked the top to consider. However, in this case, almost 80 features which includes almost every aspect of a property, and base one those features, we are here trying to predict the sales prices of them.
 
