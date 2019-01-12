@@ -1,2 +1,2 @@
 >>>
-An ordinary man with passion to Data.
+An ordinary man with passion for Data.
